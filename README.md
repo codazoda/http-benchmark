@@ -17,7 +17,7 @@ There is a `tests` directory, but sorry, I don't have any unit tests there. Just
 
 ## Results
 
-Here are some of the results I got.
+Here are some of the results I got. Note that these URL's have all been removed to prevent you from abusing them.
 
   - On Localhost:
     - Completed 10000 passes to http://stage-v2.ksl.com/benchmark in 15 seconds (666.67 per second).
